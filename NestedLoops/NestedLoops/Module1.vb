@@ -10,7 +10,7 @@
                 Console.WriteLine("Section " & CStr(j))
             Next
         Next
+        Console.ReadLine()
 
     End Sub
-
 End Module
